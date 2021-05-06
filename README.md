@@ -1,24 +1,22 @@
-# README
+# Projet jour 24 : AirBnb
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Comment l'utiliser
 
-* Ruby version
+A vous de voir )
 
-* System dependencies
 
-* Configuration
+### Pré-requis
 
-* Database creation
+- gem 'faker'
 
-* Database initialization
 
-* How to run the test suite
+## Fabriqué avec
 
-* Services (job queues, cache servers, search engines, etc.)
+* [Windows 10 // WSL2 // Ubuntu] - Environnement
+* [VS Code] - Editeur de textes
 
-* Deployment instructions
 
-* ...
+## Auteur
+
+* **Laurent Mollard-Chaumette** _alias_ [MaxiApplePie](https://github.com/MaxiApplePie)
